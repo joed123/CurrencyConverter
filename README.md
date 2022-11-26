@@ -1,4 +1,6 @@
 # CurrencyConverter
+IN PROGRESS
+
 Currency converter project
 
 Requesting data: The microservice convert.cpp once ran will ask the user if they wish to grab the data out of the file. Once the user types 1 then it will grab the data from Passer.txt
